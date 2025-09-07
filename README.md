@@ -1,4 +1,4 @@
-Healthcare Data Visualization Initiative: A Strategic & Technical Framework
+# Healthcare Data Visualization Initiative: A Strategic & Technical Framework
 📖 Project Overview
 This repository documents a comprehensive six-week internship project focused on developing a full-stack strategic and technical framework for healthcare data visualizations. The initiative moves from high-level strategic planning to the design of interactive prototypes, outlining a complete data workflow, and establishing a method for evaluating impact. The goal is to enhance data-driven decision-making, improve patient outcomes, and optimize operational efficiency within healthcare settings through effective visual communication.
 
